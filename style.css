@@ -1,0 +1,11 @@
+.font{
+    font-family: 'Inter', sans-serif;
+    color: rgb(34, 34, 34);
+}
+.blue{
+    color: #023e8a;
+}
+.h1-text{
+    font-size: 40px;
+    font-weight: 900;
+}
