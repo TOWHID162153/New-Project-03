@@ -1,11 +1,21 @@
 .font{
     font-family: 'Inter', sans-serif;
     color: rgb(34, 34, 34);
+    margin: 0;
 }
 .blue{
     color: #023e8a;
 }
 .h1-text{
-    font-size: 40px;
+    font-size: 60px;
     font-weight: 900;
+}
+.half{
+    padding: 20%;
+
+}
+.s1-display{
+    display: flex;
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
 }
