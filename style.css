@@ -11,10 +11,11 @@
     font-weight: 900;
 }
 .half{
-    padding: 20%;
+    width: 50%;
+    padding: 6%;
 
 }
-.s1-display{
+.s1-test{
     display: flex;
     background-image: url(images/shapes/Frame\ 57.jpg);
     background-repeat: no-repeat;
