@@ -1,6 +1,33 @@
 .full-body{
     font-family: 'Inter', sans-serif;
+    margin: 0;
+}
+.section-flex{
+    display: flex;
+}
+.half-div{
+    width: 50%;
+    padding: 185px 98px;
+    border: 0;
+    margin: 0;
+    
+}
+.h1-tag{
+    font-size: 60px;
+    color: #818181;
 }
 .span-orange{
-    background-image: linear-gradient(or);
+    color: #fc8b47;
 }
+.p-tag{
+    color: #818181;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(#fb9149, #fe4e30) ;
+    padding: 12px 29px;
+    border-radius: 25px;
+    margin-top: 100px;
+}
+
