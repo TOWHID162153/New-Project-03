@@ -2,7 +2,7 @@
     font-family: 'Inter', sans-serif;
     margin: 0;
 }
-.section-flex{
+.flaxible-display{
     display: flex;
 }
 .half-div{
@@ -16,14 +16,22 @@
     font-size: 60px;
     color: #818181;
 }
+.h2-tag{
+    font-size: 40px;
+    color: #818181;
+}
 .span-orange{
     color: #fc8b47;
 }
 .p-tag{
-    color: #818181;
-    margin: 68px 150px 68px 0;
-    font-size: 18px;
-    
+    color: #18191f;
+    font-size: 20px;   
+}
+.p-tag-aling{
+    margin: 50px;
+    margin-left: 0px;
+    padding: 50px;
+    padding-left: 0px;
 }
 .button{
     text-decoration: none;
@@ -31,6 +39,27 @@
     background-image: linear-gradient(#fb9149, #fe4e30) ;
     padding: 12px 29px;
     border-radius: 25px;
+    font-weight: bold;
 }
+.second-section{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
 
-
+}
+.div-aling{
+    text-align: center;
+    margin: 10px 350px 10px 350px;
+    padding: 0 15px 0 15px;
+}
+.Recipie-item{
+    width: 35%;
+    margin-left: 7%;
+    margin-right: 7%;
+    border-radius: 20px;
+    box-shadow: 10px 10px 30px rgba(128, 128, 128, 0.432);
+}
+.last-div{
+    margin: 50px 200px;
+    padding: 0px 20px;
+}
